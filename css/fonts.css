@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "FuturaPT-Demi";
+	src: url("../fonts/fon_ts/FuturaPT-Demi.woff");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ProximaNovaCond-Regular";
+	src: url("../fonts/fon_ts/ProximaNovaCond-Regular.woff");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ProximaNovaCond-Semibold";
+	src: url("../fonts/fon_ts/ProximaNovaCond-Semibold.woff");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Roboto-Regular";
+	src: url("../fonts/fon_ts/Roboto-Regular.woff");
+	font-style: normal;
+	font-weight: normal;
+}
